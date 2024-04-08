@@ -1,5 +1,5 @@
 {
-  "name": "zgylist",
+  "name": "zgylist9",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "name": "zgylist",
-    "url": "git+https://github.com/zwb521fang/zgylist.git"
+    "name": "zgylist9",
+    "url": "git+https://github.com/zwb521fang/zgylist9.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -20,9 +20,9 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zgylist/issues"
+    "url": "https://github.com/zwb521fang/zgylist9/issues"
   },
-  "homepage": "https://github.com/zwb521fang/zgylist#readme",
+  "homepage": "https://github.com/zwb521fang/zgylist9#readme",
   
   "dependencies": {
     "bblist9": "^1.0.0",
@@ -45,7 +45,7 @@
     "zhmm2": "^1.0.0",
     "zhmm1": "^1.0.0",
     "zhmm": "^1.0.0",
-    "zgylist9": "^1.0.0",
+    "zgylist": "^1.0.0",
     "zgylist8": "^1.0.0",
     "zgylist7": "^1.0.0",
     "zgylist6": "^1.0.0",
